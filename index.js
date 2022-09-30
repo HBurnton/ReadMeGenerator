@@ -65,7 +65,7 @@ function init() {
     .then((response)=>{
         writeToFile('README.md',generateMarkdown(response));
     })
-    .then(()=>console.log('I did it'))
+    .then(()=>console.log('File Successfully Written'))
     .catch((err) => console.log(err))
 
 }
