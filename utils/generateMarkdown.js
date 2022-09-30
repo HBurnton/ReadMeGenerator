@@ -36,8 +36,8 @@ function renderLicenseSection(license) {
     return ''
   }
   return`
-  ## License
-  This project licensed under the ${license} license.`
+## License
+This project licensed under the ${license} license.`
 }
 
 // TODO: Create a function to generate markdown for README
@@ -68,7 +68,7 @@ ${data.contribution}
 ## Testing Information
 ${data.test}
 
-## Contact
+## Questions? Contact me
 [Find me on GitHub](https://github.com/${data.github})
 [Send me an email](mailto:${data.email})
 
