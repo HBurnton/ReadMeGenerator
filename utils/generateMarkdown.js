@@ -23,7 +23,7 @@ function renderLicenseLink(license) {
     case 'GPLv3':
       return  '[Details on the GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/)';
     case 'MIT':
-      return '[Details on the MIT license](https://choosealicense.com/licenses/mit/';
+      return '[Details on the MIT license](https://choosealicense.com/licenses/mit/)';
     default:
       return '';
   }
