@@ -21,10 +21,12 @@ To use, simply run from the terminal and answer questions, and choose from the m
 ### Video
 Click Below to see a video of the application in action
 [![Click here for video of application in action](https://img.youtube.com/vi/kiUzZARYJRc/0.jpg)](https://www.youtube.com/watch?v=kiUzZARYJRc)
+
 [Video Link](https://youtu.be/kiUzZARYJRc)
 
 ### Image
 Check out the image below to see the skelton of this readme being built in the application
+
 ![Image of the application in action](./images/readmedemeo.png)
 
 
