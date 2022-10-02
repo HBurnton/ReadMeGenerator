@@ -18,11 +18,12 @@ This project requires Node.js to run and requires inquirer to run properly. Down
 ## Usage Guidelines
 To use, simply run from the terminal and answer questions, and choose from the most popular of licenses. Refer to images and video below for more usage.
 
-- ### Video
+### Video
 Click Below to see a video of the application in action
 [![Click here for video of application in action](https://img.youtube.com/vi/kiUzZARYJRc/0.jpg)](https://www.youtube.com/watch?v=kiUzZARYJRc)
+[Video Link](https://youtu.be/kiUzZARYJRc)
 
-- ### Images
+### Image
 Check out the image below to see the skelton of this readme being built in the application
 ![Image of the application in action](./images/readmedemeo.png)
 
@@ -35,6 +36,7 @@ This project is simple that there are no testing files provided. TDD comes next 
 
 ## Questions? Contact me
 [Find me on GitHub](https://github.com/hburnton)
+
 [Send me an email](mailto:hburnton@gmail.com)
 
 

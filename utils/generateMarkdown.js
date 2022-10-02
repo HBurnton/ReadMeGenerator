@@ -70,6 +70,7 @@ ${data.test}
 
 ## Questions? Contact me
 [Find me on GitHub](https://github.com/${data.github})
+
 [Send me an email](mailto:${data.email})
 
 ${renderLicenseSection(data.license)}
